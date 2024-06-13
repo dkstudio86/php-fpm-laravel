@@ -1,1 +1,1 @@
-# php-fpm-laravel
+# Imagen de PHP-FPM con dependencias para Laravel
